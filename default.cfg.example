@@ -1,7 +1,7 @@
 # Need help configuring? View the Documentation: https://poloniexlendingbot.readthedocs.io/en/latest/configuration.html
 
 [API]
-apikey = YourAPIKey
+apikey = aaa
 secret = YourSecret
 
 [BOT]
